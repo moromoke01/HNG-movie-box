@@ -1,0 +1,30 @@
+/* Add this CSS in a separate .css file or use a CSS-in-JS solution */
+
+.movie-container {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+  }
+ .movie-container h2{
+ text-align: left;
+ }
+  
+  .movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width as needed */
+    gap: 20px; /* Adjust the gap between movies */
+    justify-content: center;
+  }
+  
+  .movie-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .movie-card img {
+    max-width: 100%;
+  }
+  
+  /* Add more styles as needed */
+  
