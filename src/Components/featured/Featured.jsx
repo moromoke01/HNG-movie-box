@@ -16,7 +16,7 @@ export default function Featured({type}) {
     
        <span className="desc">
         <h1>Janet Jackson</h1>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio est adipisci eum sapiente, eos nisi natus optio mollitia suscipit ab earum perspiciatis fuga repudiandae ad at? Ea quae voluptates cum!
+      Step into a world of cinematic magic with our Movie Section! Immerse yourself in captivating stories, breathtaking visuals, and unforgettable performances. Explore a galaxy of entertainment for an unforgettable journey through the silver screen
         <div className="button">
             <button className="play">
                 <span>Watch</span>
