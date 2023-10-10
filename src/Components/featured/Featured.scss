@@ -85,7 +85,7 @@
     /* Media query for screens with a maximum width of 768px */
     @media (max-width: 768px) {
         .info {
-            width: 80%;
+            width: 85%;
             position: absolute;
             left: 30px;
             bottom:200px;
@@ -100,7 +100,7 @@
        
         h1 {
           font-size: 30px;
-          // margin-bottom: -3px;
+           margin-bottom: 10px;
         }
       }
     }
