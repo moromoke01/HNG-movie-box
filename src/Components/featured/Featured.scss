@@ -85,10 +85,10 @@
     /* Media query for screens with a maximum width of 768px */
     @media (max-width: 768px) {
         .info {
-            width: 70%;
+            width: 80%;
             position: absolute;
             left: 50px;
-            bottom: 150px;
+            bottom:250px;
             color: white;
             display: flex;
             flex-direction: column;
