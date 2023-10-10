@@ -29,7 +29,6 @@ export default function Movie() {
           // <Link key={movie.id} to={`/movie/${movie.id}`}> {/* Use Link to navigate to MoviePlay */}
             <div className="movie-card" data-testid="movie-card">
               <img
-                style={{ width: '200px', height: '250px' }}
                 src={`${IMAGE_BASE_URL}${movie.poster_path}`}
                 alt="movie-poster"
               />
